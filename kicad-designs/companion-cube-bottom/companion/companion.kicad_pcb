@@ -228,7 +228,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Left (layer F.Cu) (tedit 59FED5CC) (tstamp 632794CB)
-    (at 19.47 9.7 270)
+    (at 17 9.7 270)
     (descr "surface-mounted straight pin header, 1x03, 2.54mm pitch, single row, style 1 (pin 1 left)")
     (tags "Surface mounted pin header SMD 1x03 2.54mm single row style1 pin1 left")
     (path /632A0FCD)
